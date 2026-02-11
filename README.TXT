@@ -90,3 +90,7 @@ src/
 - Aplikasi dijalankan pada lingkungan **desktop (local)**
 - Source code disediakan sebagai bahan pembelajaran
 
+## Dokumentasi Hasil
+Dokumentasi hasil terdapat pada folder docs/
+
+
