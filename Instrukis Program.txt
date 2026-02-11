@@ -1,0 +1,15 @@
+Alur Program
+
+1. Admin melakukan login dengan akun yang telah dibuat jika belum maka bisa register dulu
+2. Admin memilih lapangan yang dibooking oleh customer pada menu booking di sidebar
+3. Admin melakukan pendataan sesuai form yang ada
+4. Admin bisa mengubah jadwal , pelunasan dan pembatalan pada menu sidebar
+
+
+Informasi Database
+Nama Database = booking_lapangan
+Table =  1. loguser -> id,username, email, password
+
+         2. tb_booking_futsal -> kd_booking, tgl_booking, tgl_main, kasir, penyewa, status, lapangan, harga_sewa, masuk, keluar, lama, 						   total, dp, sisa, keterangan
+	   3. tb_booking_badminton -> kd_booking, tgl_booking, tgl_main, kasir, penyewa, status, lapangan, harga_sewa, masuk, keluar, lama, 						total, dp, sisa, keterangan
+	   4. tb_booking_voli -> -> kd_booking, tgl_booking, tgl_main, kasir, penyewa, status, lapangan, harga_sewa, masuk, keluar, lama, 						    total, dp, sisa, keterangan
